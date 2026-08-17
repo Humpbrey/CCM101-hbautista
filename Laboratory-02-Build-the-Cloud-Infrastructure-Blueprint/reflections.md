@@ -1,5 +1,3 @@
-#Reflections
-
 Cloud computing has become a normal part of my everyday life, even though I did 
 not always realize that I was already using cloud services. Some of the cloud 
 services and applications I regularly use are Google Drive, Netflix, and Messenger. 
